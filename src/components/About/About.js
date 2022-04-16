@@ -8,10 +8,7 @@ const About = () => {
         <div className="myself">
           <div className="about-me">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
-              placeat dignissimos odit vitae doloremque quia perferendis quas
-              voluptatem, excepturi deleniti necessitatibus nesciunt eum
-              reprehenderit. Dolores dolor iusto voluptatibus magnam illo?
+             I am salma. My life goal is web-developer. I am fully discipline , dedicat and determine about my work. There is no shortcut to success. Hard work is the only key to achievign it.
             </p>
           </div>
           <div className="my-img">
