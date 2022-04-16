@@ -3,7 +3,9 @@ import React from 'react';
 const Footer = () => {
     return (
         <div>
-            <h1>copy @ 2023</h1>
+            <footer className='text-center mt-5'>
+                <p><small>copyright @ 2023</small></p>
+            </footer>
         </div>
     );
 };

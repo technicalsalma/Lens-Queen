@@ -1,0 +1,18 @@
+.myself{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 100px;
+    gap: 50px;
+}
+.about-me{
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.about-me p{
+    margin-top: 50px;
+    padding: 20px;
+}
+.my-img{
+    margin-left: 100px;
+    
+}
