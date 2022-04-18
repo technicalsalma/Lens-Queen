@@ -1,4 +1,4 @@
-* Lens Queen
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://salma-s-photography.web.app/).
 
