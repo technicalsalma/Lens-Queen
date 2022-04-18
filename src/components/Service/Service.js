@@ -20,8 +20,8 @@ const Service = ({ service }) => {
       <p>
         <small>{description}</small>
       </p>
-      <Link to={'/checkout/' + id}>
-        <button className="btn">Booking Now</button>
+      <Link to={"/checkout/" + id}>
+        <button className="btn"> Online Booking</button>
       </Link>
     </div>
   );

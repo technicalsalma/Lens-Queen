@@ -5,3 +5,7 @@
 .banner h3{
   color: rgb(128, 0, 64);
 }
+.banner p{
+  color: black;
+  font-family: bold;
+}

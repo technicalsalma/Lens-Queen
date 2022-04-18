@@ -20,25 +20,35 @@ const Banner = () => {
           <Carousel.Item>
             <img className="d-block w-100" src={banner} alt="First slide" />
             <Carousel.Caption>
-              <h3>Wedding Photo</h3>
-              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+              <h3>Hi, I am salma!!</h3>
+              <p>
+                I Provide Wedding Photography, Cinematography & Videography
+                Services. Enquire Now. I Primarily Specialize In Bangladesh
+                Weddings & Shoot In Documentary Style. Serving Since 2006.
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img className="d-block w-100" src={banner1} alt="Second slide" />
 
             <Carousel.Caption>
-              <h3>Drone wedding photography</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h3>Hi, I am salma!!</h3>
+              <p>
+                I Provide Wedding Photography, Cinematography & Videography
+                Services. Enquire Now. I Primarily Specialize In Bangladesh
+                Weddings & Shoot In Documentary Style. Serving Since 2006.
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img className="d-block w-100" src={banner2} alt="Third slide" />
 
             <Carousel.Caption>
-              <h3>Pre-Wedding Photography</h3>
+              <h3>Hi, I am salma!!</h3>
               <p>
-                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                I Provide Wedding Photography, Cinematography & Videography
+                Services. Enquire Now. I Primarily Specialize In Bangladesh
+                Weddings & Shoot In Documentary Style. Serving Since 2006.
               </p>
             </Carousel.Caption>
           </Carousel.Item>
