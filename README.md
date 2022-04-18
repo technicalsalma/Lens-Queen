@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## Lens Queen
 
-This project was bootstrapped with [Create React App](https://salma-s-photography.web.app/).
+This project was bootstrapped with [https://salma-s-photography.web.app/]
 
 * Web site name: lens Queen.
 * this web for a particular person name: salma akter.
