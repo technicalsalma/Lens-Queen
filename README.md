@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+* Lens Queen
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://salma-s-photography.web.app/).
 
-* this web for a particular person name: salma
+* Web site name: lens Queen.
+* this web for a particular person name: salma akter.
 * in this web added a header , a services section, about section and blog section.
 * you can register and login in this web.
 * you can take any services you want.

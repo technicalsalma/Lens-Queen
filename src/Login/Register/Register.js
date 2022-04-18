@@ -38,7 +38,7 @@ const Register = () => {
       };
     return (
       <div className="register-form">
-        <h2>Please Register </h2>
+        <h3 className="text-primary mt-2">Please Register </h3>
        <form onSubmit={handleRegister}>
           <input type="text" name="name" placeholder="Your Name" />
           <input

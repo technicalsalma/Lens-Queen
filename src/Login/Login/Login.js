@@ -92,7 +92,7 @@ const Login = () => {
         </Form>
         {errorElement}
         <p>
-          Booking salma's photography?
+          Booking lens Queen?
           <Link
             to="/register"
             className="text-primary pe-auto text-decoration-none"
