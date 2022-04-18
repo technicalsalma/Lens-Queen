@@ -54,7 +54,20 @@ const Blog = () => {
             3. What other services does firebase provide other than
             authentication?
           </h2>
-          <p></p>
+          <p>
+            Parse – Open Source Backend Platform; Back4app – Parse Hosting
+            Platform; Kinvey – Mobile Backend as a Service (mBaaS) for the
+            Enterprise; Backendless – Mobile Backend and API Services Platform;
+            Kuzzle – Backend for web, hybrid, or native mobile apps and IoT
+            projects; Pubnub – Real-time APIs and Global Messaging; Kumulos –
+            App Performance Management; Game Sparks – Game Backend Platform;
+            Hoodie – Generic backend with a client API for Offline First
+            applications; Appwrite – Open-Source backend for Flutter developers
+            Deployd – Simple core library, with a modular API for your
+            application; NHost – Accelerates development and provides full
+            control; Amplify JS – Open-source Javascript framework; Heroku –
+            Platform as a service backed by Salesforce.
+          </p>
         </div>
       </div>
     );

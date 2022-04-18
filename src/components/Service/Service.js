@@ -1,24 +1,15 @@
 import React from 'react';
-import { useAuthState } from 'react-firebase-hooks/auth';
-import { useNavigate } from 'react-router-dom';
-import auth from '../../firebase.init';
+import { Link } from "react-router-dom";
+
 import './Service.css'
 
 const Service = ({ service }) => {
-    const { name, img, price, description } = service;
-    const navigate = useNavigate();
+    const { id,name, img, price, description } = service;
+    // const navigate = useNavigate();
 
-    const[user] = useAuthState(auth)
+    // const[user] = useAuthState(auth)
    
-   const handleButtonNavigate = () =>{
-     if(user){
-       navigate('/checkout')
-     }
-     else{
-       navigate('/login')
-     }
-   }
-     
+   
 
 
   return (
@@ -29,9 +20,9 @@ const Service = ({ service }) => {
       <p>
         <small>{description}</small>
       </p>
-      <button className="btn" onClick={handleButtonNavigate}>
-        Click here
-      </button>
+      <Link to={'/checkout/' + id}>
+        <button className="btn">Booking Now</button>
+      </Link>
     </div>
   );
 };

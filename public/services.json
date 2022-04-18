@@ -1,20 +1,20 @@
 [
   {
-    "id": "623853b2614ad5aba311fdd1",
+    "id": "1",
     "img": "https://i.ibb.co/ZSdCzDC/wedding-img-1.jpg",
     "name": "Wedding Photo Editing",
     "price": 14,
     "description": "When a chance to photograph a wedding in Ibiza comes up, it turns out that it’s very easy to say yes! Zannah and Kirill got married in a Yoga retreat in the quieter, more rural part of Ibiza, with an intimate group of friends and family, and the day was positively drenched in emotion."
   },
   {
-    "id": "623853b2578e9e6ad1ae0dd5",
+    "id": "5",
     "img": "https://i.ibb.co/JC5KfN2/wedding-img-2.jpg",
     "name": "Drone wedding photography",
     "price": 27,
     "description": "Set within 24 acres of glorious Gower garden. Sprawling lawns, tranquil lakes and magical woodland create a picture perfect backdrop."
   },
   {
-    "id": "623853b21fb149d2ee7b76c7",
+    "id": "7",
     "index": 2,
     "img": "https://i.ibb.co/NK7T585/wedding-img-3.jpg",
     "name": "Pre-Wedding Photography",
@@ -22,27 +22,27 @@
     "description": "For couples marrying elsewhere, we’ll ensure that your arrival at the reception is equally memorable. We’ll have your guests ready and waiting to greet you."
   },
   {
-    "id": "623853b2614ad5aba311fdd1",
+    "id": "6",
     "index": 0,
     "img": "https://i.ibb.co/6vsTyDZ/pic4.jpg",
     "name": "Wedding Photo Editing",
-    "price": 14,
+    "price": 54,
     "description": "A lot of their friends were clearly a tight-knit group, who had known each other since university, and there’s something about destination weddings, where it feels like everyone is in ‘holiday mode’ and just bonds in that amazing way, that you can’t replicate anywhere else.."
   },
   {
-    "id": "623853b2578e9e6ad1ae0dd5",
+    "id": "4",
     "index": 1,
     "img": "https://i.ibb.co/Gnth0Nn/pic3.jpg",
     "name": "Drone wedding photography",
-    "price": 27,
+    "price": 70,
     "description": "Set within 24 acres of glorious Gower garden. Sprawling lawns, tranquil lakes and magical woodland create a picture perfect backdrop."
   },
   {
-    "id": "623853b21fb149d2ee7b76c7",
+    "id": "3",
     "index": 2,
     "img": "https://i.ibb.co/fST53dg/pic2.jpg",
     "name": "Pre-Wedding Photography",
-    "price": 24,
+    "price": 34,
     "description": "Set within 24 acres of glorious Gower garden. Sprawling lawns, tranquil lakes and magical woodland create a picture perfect backdrop."
   }
 ]
