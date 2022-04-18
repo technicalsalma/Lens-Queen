@@ -6,7 +6,7 @@ const Footer = () => {
     let year = time.getFullYear()
 
     return (
-      <div className="mt-5 py-5 bg-dark text-white text-center sticky-bottom  ">
+      <div className="mt-5 py-3 bg-dark text-white text-center sticky-bottom  ">
         <p> copyright : &copy; {year} Photoghrapy: Salma - All Rights Reserved</p>
       </div>
     );

@@ -62,12 +62,6 @@ const Login = () => {
     }
   };
 
-  //   useEffect(() => {
-  //    if (user) {
-  //      toast.success("Successfully created!");
-  //      navigate(from, { replace: true });
-  //    }
-  //  }, [user, navigate, from]);
 
   return (
     <div>

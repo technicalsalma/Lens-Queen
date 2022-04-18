@@ -14,8 +14,6 @@ const Banner = () => {
   }
     return (
       <div className="banner">
-        {/* <img src={banner} alt="" /> */}
-
         <Carousel activeIndex={index} onSelect={handleSelect}>
           <Carousel.Item>
             <img className="d-block w-100" src={banner} alt="First slide" />

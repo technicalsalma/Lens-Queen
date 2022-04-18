@@ -5,9 +5,7 @@ import './Service.css'
 
 const Service = ({ service }) => {
     const { id,name, img, price, description } = service;
-    // const navigate = useNavigate();
-
-    // const[user] = useAuthState(auth)
+   
    
    
 

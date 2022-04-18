@@ -4,13 +4,20 @@
     margin-top: 100px;
     gap: 30px;
 }
-.about-me{
+/* .about-me{
     border: 2px solid gray;
     border-radius: 5px;
-}
-.about-me p{
-    margin-top: 50px;
+} */
+.about-me h3{
+    margin-top: 10px;
     padding: 20px;
+    color: rgb(128, 0, 64);
+ }
+.about-me p{
+    margin-top: 10px;
+    padding: 20px;
+    font-weight: bolder;
+    color: gray;
  }
 .my-img{
     margin-left: 100px;
