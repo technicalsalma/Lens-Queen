@@ -1,17 +1,11 @@
 .navber{
-    background-color: 	rgb(128, 0, 64);
+    background-color: 	rgba(189, 54, 121, 0.42);
 }
-.title-logo h6{
-    
-}
+
 
 .title-logo h6::first-letter{
-   font-size: 150%;
+   font-size: 200%;
    font-weight: bolder;
-  color: rgb(28, 2, 15)
+  color: rgb(255, 255, 255)
 }
 
-.title-logo h6 span::first-letter{
-   font-size: 200%;
-  color: #ea2d1c;
-}

@@ -17,7 +17,7 @@ const Banner = () => {
         <Carousel activeIndex={index} onSelect={handleSelect}>
           <Carousel.Item>
             <img className="d-block w-100" src={banner} alt="First slide" />
-            <Carousel.Caption>
+            <Carousel.Caption className='text-dark'>
               <h3>Hi, I am salma!!</h3>
               <p>
                 I Provide Wedding Photography, Cinematography & Videography
@@ -42,7 +42,7 @@ const Banner = () => {
             <img className="d-block w-100" src={banner2} alt="Third slide" />
 
             <Carousel.Caption>
-              <h3>Hi, I am salma!!</h3>
+              <h3 className='text-white'>Hi, I am salma!!</h3>
               <p>
                 I Provide Wedding Photography, Cinematography & Videography
                 Services. Enquire Now. I Primarily Specialize In Bangladesh
