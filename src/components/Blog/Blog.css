@@ -1,0 +1,11 @@
+.container h4{
+    color: rgb(128, 0, 64);
+}
+
+.blog-different{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    border: 1px solid gray;
+    margin-bottom: 30px;
+}
